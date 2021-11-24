@@ -1,7 +1,8 @@
 package com.sqa.perulangan;
 
 public class ContohPerulangan {
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		//Aplikasi Raraban
 		int n=8;
 		for(int i=1; i<=20; i++) {
